@@ -27,6 +27,8 @@
 
 - **[FPL Deadline Brief](https://github.com/Destinez/fpl-briefing-A2MCP)**: TypeScript/Express API that turns a Fantasy Premier League team ID into transfer, captain and rotation advice: deterministic reasoning engines plus Anthropic Claude for the write-up, with pay-per-call endpoints and a Docker deploy.
 - **[polymarket-agent](https://github.com/Destinez/polymarket-agent)**: TypeScript agent that scans Polymarket prediction markets, researches each one with recent news (Tavily), asks Claude for a probability estimate and proposes half-Kelly-sized paper trades for human approval, with Supabase logging and a scheduled weekly review.
+- **[Veil](https://github.com/Destinez/Veil)**: confidential group-expense app. React + TypeScript frontend, Hono/Drizzle/PostgreSQL API with SIWE auth, and Solidity contracts (Foundry, Zama FHEVM) with tests.
+- **[Resonance (orbitals)](https://github.com/Destinez/orbitals)**: npm-workspace monorepo with a React/Vite campaign site, a Node.js/PostgreSQL registration API with tests, and a deterministic generative-art generator.
 - **[paybox-dashboard](https://github.com/Destinez/paybox-dashboard)**: fintech wallet dashboard UI built with React, Vite, Redux Toolkit, Material UI and Chart.js.
 - **[Blutech](https://github.com/Destinez/Blutech)**: front-end take-home: a Figma design implemented in React + Vite, with a searchable, filterable product catalogue fed by a REST API through React Context.
 
